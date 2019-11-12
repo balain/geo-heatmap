@@ -15,6 +15,8 @@ https://developers.google.com/maps/documentation/javascript/heatmaplayer
 1. Copy index.html-template to index.html
 1. Replace "YOUR_GOOGLE_API_KEY" near the end of the file with a valid/active Google API key
 
+N.B. If you need a key, follow the instructions on the Google site: https://developers.google.com/maps/documentation/javascript/get-api-key
+
 ## 1. Gather Input
 
 CSV: `<id>,<street>,<city>,<state>,<zip>`
